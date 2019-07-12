@@ -1,0 +1,86 @@
+body{
+  margin: 0px;
+
+}
+
+h1{
+  padding: 0px;
+
+}
+
+.main{
+  width: 1200px;
+  margin: auto;
+  overflow: hidden;
+
+
+
+}
+.one{
+  width:33.33%;
+  float:left;
+  box-sizing: border-box;
+  padding: 0px 5px;
+  margin-bottom: 15px;
+}
+.a{
+  background-color: blue;
+  padding: 15px;
+  height: 100px;
+  box-shadow: 5px 5px 10px black;
+}
+
+.two{
+  width:100%;
+  float:left;
+  box-sizing: border-box;
+  padding: 0px 5px;
+  margin-bottom: 15px;
+}
+
+.b{
+  background-color: blue;
+  padding: 15px;
+  height: 100px;
+  box-shadow: 5px 5px 10px black;
+}
+
+.three{
+  width:50%;
+  float:left;
+  box-sizing: border-box;
+  padding: 0px 5px;
+  margin-bottom: 15px;
+}
+.c{
+  background-color: blue;
+  padding: 15px;
+  height: 100px;
+  box-shadow: 5px 5px 10px black;
+}
+
+.four{
+  width:60%;
+  float:left;
+  box-sizing: border-box;
+  padding: 5px;
+  margin-bottom: 15px;
+}
+.d{
+  background-color: blue;
+  padding:  15px;
+  height: 100px;
+  box-shadow: 5px 5px 10px black;
+}
+.five{
+  width:20%;
+  float:left;
+  box-sizing: border-box;
+  padding: 5px;
+}
+.e{
+  background-color: blue;
+  padding: 15px;
+  height: 100px;
+  box-shadow: 5px 5px 10px black;
+}
